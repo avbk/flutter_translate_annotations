@@ -19,7 +19,7 @@ class FlutterTranslate {
     this.missingArguments = ErrorLevel.error,
     this.keysStyle = KeysStyle.withTranslate,
     this.nestingStyle = NestingStyle.nested,
-    this.caseStyle = CaseStyle.titleCase,
+    this.caseStyle = CaseStyle.camelCase,
     this.separator = "_",
   }) : assert(path != null);
 }
