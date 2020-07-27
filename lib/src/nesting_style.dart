@@ -1,0 +1,4 @@
+﻿enum NestingStyle {
+  nested,
+  flat,
+}

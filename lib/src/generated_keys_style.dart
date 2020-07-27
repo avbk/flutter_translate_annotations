@@ -1,4 +1,0 @@
-﻿enum GeneratedKeysStyle {
-  nested,
-  flat,
-}

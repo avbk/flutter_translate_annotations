@@ -1,0 +1,4 @@
+﻿enum KeysStyle {
+  withTranslate,
+  keysOnly,
+}
